@@ -64,7 +64,7 @@ import Pagination from '@rizkyalam/pagination'
 
 // or
 
-const Pagination from '@rizkyalam/pagination'
+const Pagination = require('@rizkyalam/pagination')
 ```
 ### Directly in HTML
 
